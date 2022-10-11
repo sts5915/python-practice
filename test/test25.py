@@ -29,8 +29,8 @@ def solution(n : int):     # int준 이유는 타입을 정해준것이다
 
 print(solution(3))
 print(solution(10))
-print(solution(20))
-    
+print(solution(20)) 
+print(solution(30))
     
     
     
